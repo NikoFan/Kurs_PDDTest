@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="themeColor">#E0E470</color>
+    <color name="themeColorDark">#B1902E</color>
+
+    <!-- Цвет для правильного ответа -->
+    <color name="CorrectAnswerColor">#00FF53</color>
+
+    <!-- Цвет для нейтрального ответа -->
+    <color name="NeutralAnswerColor">#E3B84E</color>
+
+    <!-- Цвет для неправильного ответа -->
+    <color name="WrongAnswerColor">#FF0000</color>
+
+<!--    Цвет для фона -->
+    <color name="backgrounfColor">#959EF3</color>
+<!--    Цвет для фона карточек -->
+    <color name="cardBackgroundColor">#6839ED</color>
+<!--    Цвет текста -->
+    <color name="Foreground">#000000</color>
+<!--    Цвет измененного текста -->
+    <color name="SecondForeground">#302F2F</color>
+</resources>
